@@ -1,8 +1,6 @@
-# Overview
+# The GAME
 
-You can use the [editor on GitHub](https://github.com/ani339677/TIC-TAC-TOE/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I guess, everyone might have played the game Noughts & Crosses, a traditional time-pass game! It is a two-player game, in which one chooses nought(0) and the other, cross(X) and of them try to fill any one row or column or diagonal 
 
 ### Markdown
 
