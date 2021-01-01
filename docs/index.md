@@ -1,6 +1,6 @@
 # The GAME
 
-I guess, everyone might have played the game Noughts & Crosses, a traditional time-pass game! It is a two-player game, in which one chooses nought(0) and the other, cross(X) and of them try to fill any one row or column or diagonal 
+I guess, everyone might have played the game Noughts & Crosses, a traditional time-pass game! It is a two-player game, in which one chooses nought(0) and the other, cross(X) and of them try to fill any one row or column or diagonal with the symbol he or she chooses.
 
 ### Markdown
 
