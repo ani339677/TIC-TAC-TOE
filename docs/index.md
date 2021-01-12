@@ -4,7 +4,8 @@ I guess, everyone might have played the game Noughts & Crosses, a traditional ti
 
 | X | O | O | 
 | --- | --- | --- |
-| X | X | X |  
+| X | X | X | 
+| --- | --- | --- |
 | O |   | O |  
 
 ### Markdown
