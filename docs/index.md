@@ -2,9 +2,9 @@
 
 I guess, everyone might have played the game Noughts & Crosses, a traditional time-pass game! It is a two-player game, in which one chooses nought(0) and the other, cross(X) and each of them try to fill any one row or column or diagonal with the symbol he or she chooses. And the one who is able to do that wins the game!
 
-| X | O | O |
-| X | X | X |
-| O |   | O |
+| X | O | O |  
+| X | X | X |  
+| O |   | O |  
 
 ### Markdown
 
