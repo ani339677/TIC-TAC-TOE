@@ -4,7 +4,7 @@ I guess, everyone might have played the game Noughts & Crosses, a traditional ti
 Let there be two players, Player1 and Player2. Let Player1 chooses nought(0) and Player2 chooses cross(X) and it's mutually decided that Player1 starts the game, without quarrelling with each other!  
 And the game goes on like this,
 
-#####Player1's Turn
+##### Player1's Turn
 ```markdown
      +---+---+---+
      |   |   | O |
@@ -15,7 +15,7 @@ And the game goes on like this,
      +---+---+---+
 ```
 
-#####Player2's Turn
+##### Player2's Turn
 ```markdown
      +---+---+---+
      |   |   | O |
@@ -26,7 +26,7 @@ And the game goes on like this,
      +---+---+---+
 ```
 
-#####Player1's Turn
+##### Player1's Turn
 ```markdown
      +---+---+---+
      |   | O | O |
@@ -37,7 +37,7 @@ And the game goes on like this,
      +---+---+---+
 ```
 
-#####Player2's Turn
+##### Player2's Turn
 ```markdown
      +---+---+---+
      | X | O | O |
@@ -48,7 +48,7 @@ And the game goes on like this,
      +---+---+---+
 ```
 
-#####Player1's Turn
+##### Player1's Turn
 ```markdown
      +---+---+---+
      | X | O | O |
@@ -59,7 +59,7 @@ And the game goes on like this,
      +---+---+---+
 ```
 
-#####Player2's Turn
+##### Player2's Turn
 ```markdown
      +---+---+---+
      | X | O | O |
@@ -70,7 +70,7 @@ And the game goes on like this,
      +---+---+---+
 ```
 
-#####Player1's Turn
+##### Player1's Turn
 ```markdown
      +---+---+---+
      | X | O | O |
@@ -81,7 +81,7 @@ And the game goes on like this,
      +---+---+---+
 ```
 
-#####Player2's Turn
+##### Player2's Turn
 ```markdown
      +---+---+---+
      | X | O | O |
