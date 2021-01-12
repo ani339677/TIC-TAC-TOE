@@ -1,6 +1,7 @@
 # The GAME
 
 I guess, everyone might have played the game Noughts & Crosses, a traditional time-pass game! It is a two-player game, in which one chooses nought(0) and the other, cross(X) and each of them try to fill any one row or column or diagonal with the symbol he or she chooses. And the one who is able to do that wins the game!  
+  
 Let there be two players, Player1 and Player2. Let Player1 chooses nought(0) and Player2 chooses cross(X) and it's mutually decided that Player1 starts the game, without quarrelling with each other!  
 And the game goes on like this,
 
