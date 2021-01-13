@@ -99,10 +99,8 @@ Let's move on to the best player of this game!
   
 # The Computer
 
-You need to first setup your computer to play this game. Firstly, you need to install python in your computer.  
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You need to first setup your computer to play this game. Firstly, you need to install [python](https://www.python.org/downloads/) in your computer (Windows, MacOS, Linux/UNIX or other platfaorms excluding Android). For Andoid you need to install [Termux](https://play.google.com/store/apps/details?id=com.termux&hl=en_IN&gl=US) from  Google PlayStore.
+and 
 
 
 
