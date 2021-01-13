@@ -76,9 +76,9 @@ And the game goes on like this,
      +---+---+---+
      | X | O | O |
      +---+---+---+
-     | X | X |   |
+     | X | X | O |
      +---+---+---+
-     | O |   | O |
+     | O |   |   |
      +---+---+---+
 ```
 
@@ -87,12 +87,19 @@ And the game goes on like this,
      +---+---+---+
      | X | O | O |
      +---+---+---+
-     | X | X | X |
+     | X | X | O |
      +---+---+---+
-     | O |   | O |
+     | O |   | X |
      +---+---+---+
 ```
+So, finally at the last, **Player2** is winner! Let us congratulate him for his achievement and let's celebrate! But wait, whether his achievement is so big to celebrate? Whether he has defeated the world's best player in this game? Whether Player1 was the best player in this world of this game?  
+The answer to all these questions is **NO**!  
+  
+Let's move on to the best player of this game!  
+  
+# The Computer
 
+You need to first setup your computer to play this game. Firstly, you need to install python in your computer.  
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
